@@ -1,4 +1,5 @@
 This is a project that can generating random data in table by Mock.js.
+![Screen Shot 2022-04-10 at 9 55 39 PM](https://user-images.githubusercontent.com/86901868/162622147-7366ed30-81cd-4d65-ac8f-e67484ad509f.png)
 
 demo link: https://mockdata-table.netlify.app
 
