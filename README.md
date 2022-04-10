@@ -8,3 +8,5 @@ Single click on tr will show the detail in right-side canvas.
 But if the status of the item is "false", it won't show the detail.
 
 Double click on tr will open up the right-side canvas. So will click the sidebar icon.
+
+#react #typescript #mock.js #react-hooks
